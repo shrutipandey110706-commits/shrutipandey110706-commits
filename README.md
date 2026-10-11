@@ -30,8 +30,8 @@ I'm looking for **internship and entry-level opportunities** where I can learn f
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin,java,py,js,mysql,androidstudio,html,css,django,git,github,vscode&theme=dark&perline=12">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin,java,py,js,mysql,androidstudio,html,css,django,git,github,vscode&theme=light&perline=12">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpy%2Cjs%2Cmysql%2Candroidstudio%2Chtml%2Ccss%2Cdjango%2Cgit%2Cgithub%2Cvscode&theme=dark&perline=12">
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin%2Cjava%2Cpy%2Cjs%2Cmysql%2Candroidstudio%2Chtml%2Ccss%2Cdjango%2Cgit%2Cgithub%2Cvscode&theme=light&perline=12">
   <img src="https://skillicons.dev/icons?i=kotlin,java,py,js,mysql,androidstudio,html,css,django,git,github,vscode&perline=12" alt="Kotlin, Java, Python, JavaScript, MySQL, Android Studio, HTML, CSS, Django, Git, GitHub, VS Code">
 </picture>
 </div>
