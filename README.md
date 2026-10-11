@@ -48,16 +48,20 @@ I'm looking for **internship and entry-level opportunities** where I can learn f
 
 ## Featured Projects
 
-| Project | What it is | Built with |
-|:--|:--|:--|
-| **Weather App** | An Android weather app that fetches data from a weather API. | Kotlin, Jetpack Compose, Retrofit |
-| **Expense Tracker** | An Android app for managing expenses, with local database storage and financial statistics. | Android, Kotlin, Room |
-| **QuickBite** | Project details coming soon. | To be added |
+### Weather App
+An Android weather app built with **Kotlin** and **Jetpack Compose**. It uses **Retrofit** to fetch data from a weather API.
 
-<!--
-TODO: add each repository link once confirmed, for example:
-[View repository](https://github.com/shrutipandey110706-commits/REPOSITORY_NAME)
--->
+`Kotlin` `Jetpack Compose` `Retrofit`
+
+### Expense Tracker
+An Android app for managing expenses, with local database storage and financial statistics.
+
+`Android` `Kotlin` `Room`
+
+### QuickBite
+Project details coming soon.
+
+You can browse all my work in my [GitHub repositories](https://github.com/shrutipandey110706-commits?tab=repositories).
 
 ---
 
