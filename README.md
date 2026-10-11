@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Shruti Pandey, Aspiring Android Developer, B.Tech CSE" width="100%">
+<img src="https://raw.githubusercontent.com/shrutipandey110706-commits/shrutipandey110706-commits/main/assets/banner.svg" alt="Shruti Pandey, Aspiring Android Developer, B.Tech CSE" width="100%">
 
 **Kotlin &nbsp;|&nbsp; Jetpack Compose &nbsp;|&nbsp; Android Development &nbsp;|&nbsp; Problem Solving**
 
