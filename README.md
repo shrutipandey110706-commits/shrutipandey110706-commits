@@ -2,7 +2,7 @@
 
 <h1 align="center">Shruti Pandey</h1>
 
-<img src="https://img.shields.io/badge/Aspiring%20Android%20Developer-B.Tech%20CSE-0E7490?style=for-the-badge&labelColor=0F2A5A" alt="Aspiring Android Developer, B.Tech CSE">
+<h3 align="center">Aspiring Android Developer &nbsp;|&nbsp; B.Tech CSE</h3>
 
 **Kotlin &nbsp;|&nbsp; Jetpack Compose &nbsp;|&nbsp; Android Development &nbsp;|&nbsp; Problem Solving**
 
