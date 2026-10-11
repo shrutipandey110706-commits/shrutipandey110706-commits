@@ -1,9 +1,9 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,100:2c5364&text=Shruti%20Pandey&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Aspiring%20Android%20Developer%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=17" alt="Shruti Pandey - Aspiring Android Developer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,100:2c5364&text=Shruti%20Pandey&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=Android%20%26%20Web%20Development%20%7C%20B.Tech%20CSE&descAlignY=58&descSize=17" alt="Shruti Pandey - Android and Web Development" width="100%"/>
 
-**Kotlin &nbsp;•&nbsp; Jetpack Compose &nbsp;•&nbsp; Problem Solving**
+**Android Development &nbsp;•&nbsp; Web Development &nbsp;•&nbsp; Problem Solving**
 
 <a href="https://www.linkedin.com/in/shruti-pandey-4a0726355"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="https://leetcode.com/u/shrutipandey1107/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a B.Tech Computer Science and Engineering student at **LNCT University, Bhopal**, focusing on **Android development**.
+I'm a B.Tech Computer Science and Engineering student at **LNCT University, Bhopal**, focusing on **Android and web development**.
 
 I build Android apps with **Kotlin** and **Jetpack Compose**, and I'm learning to structure them well using Coroutines, Flow, ViewModel and StateFlow. I also practise data structures and algorithms regularly to strengthen my problem-solving.
 
@@ -74,12 +74,9 @@ REPLACE_WITH_QUICKBITE_DESCRIPTION (2 sentences, based on what the repository ac
 
 ---
 
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=shrutipandey110706-commits&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrutipandey110706-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com?user=shrutipandey110706-commits&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
 
