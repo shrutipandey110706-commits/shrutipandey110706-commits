@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shrutipandey110706-commits/shrutipandey110706-commits/main/banner.svg" alt="Shruti Pandey, Aspiring Android Developer, B.Tech CSE" width="100%">
+<h1 align="center">Shruti Pandey</h1>
+
+<img src="https://img.shields.io/badge/Aspiring%20Android%20Developer-B.Tech%20CSE-0E7490?style=for-the-badge&labelColor=0F2A5A" alt="Aspiring Android Developer, B.Tech CSE">
 
 **Kotlin &nbsp;|&nbsp; Jetpack Compose &nbsp;|&nbsp; Android Development &nbsp;|&nbsp; Problem Solving**
 
